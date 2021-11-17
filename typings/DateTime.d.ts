@@ -1,9 +1,9 @@
 // Type definitions for react-datetime
-// Project: https://github.com/arqex/react-datetime
+// Project: https://github.com/firstskytouch/react-datetime
 // Definitions by: Ivan Verevkin <vereva@x-root.org>
 //     Updates by: Aaron Spaulding <aaron@sachimp.com>,
 //                 Karol Janyst <http://github.com/LKay>,
-//                 Javier Marquez <javi@arqex.com>
+//                 Javier Marquez <stanleyc.sky@gmail.com>
 
 import { Component, ChangeEvent, FocusEvent, FocusEventHandler } from 'react';
 import { Moment } from 'moment';

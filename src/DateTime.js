@@ -593,7 +593,7 @@ export default class Datetime extends React.Component {
 	_onInputClick = e => {
 		// Focus event should open the calendar, but there is some case where
 		// the input is already focused and the picker is closed, so clicking the input
-		// should open it again see https://github.com/arqex/react-datetime/issues/717
+		// should open it again see https://github.com/firstskytouch/react-datetime/issues/717
 		if ( !this.callHandler( this.props.inputProps.onClick, e ) ) return;
 		this._openCalendar();
 	}

@@ -1,7 +1,7 @@
 // Type definitions for react-datetime
-// Project: https://github.com/arqex/react-datetime
+// Project: https://github.com/firstskytouch/react-datetime
 // Definitions by: Ivan Verevkin <vereva@x-root.org>
-//     Updates by: Javier Marquez <javi@arqex.com>
+//     Updates by: Stanley Chong <stanleyc.sky@gmail.com>
 
 // These are the typings for Typescript 1.8
 // for Typescript 2.0+ see DateTime.d.ts
